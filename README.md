@@ -18,6 +18,8 @@ Dominos Pizza can come up with better ways to sell pizzas and make more profit.
 - Step 7 : I did create new table Key-Measures, In this Key-Measures i did create All Measures that is mentioned below.
     
    (A)  Total Revenue = sum(pizza_sales[total_price])
+
+        ![a](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/e9dd62c8-15c3-4660-ab6a-ac7f6d30849c)
     
    (B)  Average Order Value = [Total Revenue]/[Total Orders]
 
