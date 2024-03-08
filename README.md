@@ -57,6 +57,8 @@ Dominos Pizza can come up with better ways to sell pizzas and make more profit.
 # Snapshot of Dashboard (Power BI Desktop)
 
         HOME PAGE
+
+        ![in](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/a52c7a14-629e-43ba-85f9-6e305d543536)
         
 
 
