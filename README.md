@@ -63,7 +63,7 @@ Dominos Pizza can come up with better ways to sell pizzas and make more profit.
    (b)  By Order Date
 
    
-# Snapshot of Dashboard (Power BI Desktop)
+## Snapshot of Dashboard (Power BI Desktop)
 
         HOME PAGE
 
@@ -90,14 +90,14 @@ Dominos Pizza can come up with better ways to sell pizzas and make more profit.
 - Step 17 : After that I did write Report title that is DOMINO'S SALES REPORT
 - Step 18 : Then I did insert two slicer from visualization tab that is like that Home Page.
 
-# Report Snapshot (Power BI DESKTOP)
+## Report Snapshot (Power BI DESKTOP)
 
         BEST/WORST_SELLER PAGE
 
 ![abc](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/30ac0931-9de0-4c76-bdf2-19501b74465b)
  
  
- # Insights of Home Page
+ ## Insights of Home Page
 
  (1) Orders are Highest on Weekends like that Friday and Saturday Evening.
 
@@ -109,7 +109,7 @@ Dominos Pizza can come up with better ways to sell pizzas and make more profit.
 
 
 
-# Insights of Best/Worst Seller Page
+## Insights of Best/Worst Seller Page
 
  (1) Thai Chicken Pizza contributes to maximum Revenue.
 
