@@ -32,6 +32,8 @@ Dominos Pizza can come up with better ways to sell pizzas and make more profit.
 
    (D)  Total Orders = DISTINCTCOUNT(pizza_sales[order_id])
 
+  ![db](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/6bcabf79-2c05-4e96-9da2-8cc1a947ecee)
+
    (E)  Average Pizzas per Order = [Total pizzas sold]/[Total Orders]
 
    
