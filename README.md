@@ -67,7 +67,7 @@ Dominos Pizza can come up with better ways to sell pizzas and make more profit.
 
         HOME PAGE
 
-        ![in](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/a52c7a14-629e-43ba-85f9-6e305d543536)
+![in](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/a52c7a14-629e-43ba-85f9-6e305d543536)
         
 
 
@@ -93,10 +93,11 @@ Dominos Pizza can come up with better ways to sell pizzas and make more profit.
 # Report Snapshot (Power BI DESKTOP)
 
         BEST/WORST_SELLER PAGE
+
+![abc](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/30ac0931-9de0-4c76-bdf2-19501b74465b)
  
  
- 
-# Insights of Home Page
+ # Insights of Home Page
 
  (1) Orders are Highest on Weekends like that Friday and Saturday Evening.
 
