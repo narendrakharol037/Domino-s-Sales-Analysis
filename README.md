@@ -19,9 +19,12 @@ Dominos Pizza can come up with better ways to sell pizzas and make more profit.
     
    (A)  Total Revenue = sum(pizza_sales[total_price])
 
-        ![a](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/e9dd62c8-15c3-4660-ab6a-ac7f6d30849c)
+  ![a](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/e9dd62c8-15c3-4660-ab6a-ac7f6d30849c)
     
    (B)  Average Order Value = [Total Revenue]/[Total Orders]
+
+  ![b](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/289b2545-6628-4df4-91b7-1d1b83fe6343)
+
 
    (C)  Total pizzas sold = sum(pizza_sales[quantity])
 
