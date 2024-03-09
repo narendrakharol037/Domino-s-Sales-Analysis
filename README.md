@@ -36,6 +36,8 @@ Dominos Pizza can come up with better ways to sell pizzas and make more profit.
 
    (E)  Average Pizzas per Order = [Total pizzas sold]/[Total Orders]
 
+  ![k](https://github.com/narendrakharol037/Domino-s-Sales-Analysis/assets/121941969/103eac04-5070-4bf2-9674-06a52ef3f612)
+
    
             
 - Step 9 : After that I did take new-card visual from Visualization tab and all above five measures value put in the card, and modyfied all five cards increase font.
