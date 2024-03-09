@@ -7,9 +7,15 @@ Dominos Pizza wants to sell more pizzas and make more money. To do this, they ne
 They want to look at things like where they sell the most pizzas, which pizzas are most popular, and if discounts or promotions help sell more. By figuring out these things, 
 Dominos Pizza can come up with better ways to sell pizzas and make more profit.
 
+### Tools Used
+
+Database  -  Microsoft Sql Server Management Studio
+
+Visualization Tool  -  Power Bi Desktop
+
 ### Steps followed 
 
-- Step 1 : Load data into Power BI Desktop from MYSQL Database.
+- Step 1 : Load data into Power BI Desktop from Microsoft Sql Server Management Studio Database.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : Also we check duplicate values,null values and data types of all columns.
 - Step 4 : In pizza_size column, i did replaced M to Medium, S to Regular,L with Large,XL to X-Large and XXL to XX-Large.
